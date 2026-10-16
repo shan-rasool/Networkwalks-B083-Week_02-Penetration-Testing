@@ -472,7 +472,7 @@ If you want to repeat these exercises, do it **only in a lab you control**:
 
 <img src="https://img.shields.io/badge/Shan_Rasool-Cybersecurity_Intern-B71C1C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Author badge"/>
 
-**Shan Rasool** &nbsp;|&nbsp; Batch **B083** &nbsp;|&nbsp; **Networkwalks**
+**Shan Rasool**
 *Cybersecurity & Ethical Hacking Program*
 
 <br/>
